@@ -1,0 +1,11 @@
+.button {
+  height: 50px !important;
+  width: 150px;
+  font-size: large;
+  background-color: #6ff454;
+  font-weight: 700;
+}
+
+.container {
+  color: rgb(253, 54, 134);
+}
