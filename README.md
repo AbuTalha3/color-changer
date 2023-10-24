@@ -1,5 +1,5 @@
 # color-changer
-Changing color of page with one button
+Changing the color of the page with one button. It is just a gaming app for kids to play with colors.
 
 ## 👥 Author <a name="author"></a>
 
